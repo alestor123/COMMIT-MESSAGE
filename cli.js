@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var cmessage = require('./App'),
 chalk = require('chalk');
 (async () => {

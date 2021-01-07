@@ -1,10 +1,10 @@
 {
-  "name": "commit-message",
+  "name": "random-commit",
   "version": "1.0.0",
   "description": "This is a simple code for making some random commit messages ",
   "main": "App.js",
   "bin": {
-    "commit-message": "cli.js"
+    "random-commit": "cli.js"
   },
   "dependencies": {
     "chalk": "^4.1.0",
